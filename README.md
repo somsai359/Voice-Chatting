@@ -1,6 +1,6 @@
 # Voice-Chatting
 
-real-time voice communication app using Next.js for the frontend and GoLang for the backend. The application should allow two or
+Real-time voice communication app using Next.js for the frontend and GoLang for the backend. The application should allow two or
 more users to join a common room and communicate via voice in real-time.
 Objectives
 Frontend (Next.js):
