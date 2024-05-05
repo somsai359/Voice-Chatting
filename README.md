@@ -19,7 +19,6 @@ Provide endpoints for users to join/leave chat rooms and to send/receive voice d
 ![image](https://github.com/somsai359/Voice-Chatting/assets/76832603/2f53ac5f-7b18-4bfd-8c0b-6c5cf5d1f168)
 
 
-![Uploading image.png…]()
 
 
 
